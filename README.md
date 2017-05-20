@@ -8,7 +8,7 @@ How to get your shared_secret & identity_secret:
 <br>4: Search the file for shared_secret:"XXXXXXXXXXXXXX=", instead of XXX it should have a code there, it always ends with =
 <br>5: Do the same for identity_secret, it will look similar.
 <br>
-How to set up a server with DigitalOcean
+<br>How to set up a server with DigitalOcean
 <br>1: Add funds, and create a Droplet. Hit "One Click Apps" and select NodeJS.
 <br>2: Once created, download Putty and Filezilla: https://filezilla-project.org/ & http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 <br>3: Open Putty, fill in the IP address sent to your e-mail and wait for the command prompt to open. Once opened fill in username "root" and the password sent to your email. You can copy your password in your email and paste it in Putty using right click, you wont see your password!
