@@ -20,3 +20,5 @@ How to get your shared_secret & identity_secret:
 <br>9: To start your bot run this command in Putty: forever start index.js
 <br>Then your bot should be running!
 <br>Make sure to fill in the config!
+
+<br><br><br>Errors, issues, bugs or problems? https://github.com/b0gotac/steam-lvlup-bot/issues !
